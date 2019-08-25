@@ -1,4 +1,7 @@
+[![DOI](https://zenodo.org/badge/204285146.svg)](https://zenodo.org/badge/latestdoi/204285146)
+
 # ElasticPOST
+
  POST code for second order elastic constant
 
 [Online Help](https://elasticpost.readthedocs.io/) (Under writing)
