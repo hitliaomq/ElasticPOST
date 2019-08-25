@@ -1,6 +1,12 @@
 # ElasticPOST
  POST code for second order elastic constant
 
+[Online Help](https://elasticpost.readthedocs.io/) (Under writing)
+
+## PLEASE CITE
+
+Mingqing Liao, Yong Liu, Nan Qu e.t. al. ElasticPOST: A Matlab Toolbox for Post-processing of Elastic Anisotropy with Graphic User Interface. *submitted to computer physics communication* (2019)
+
 ## FUNCTIONS
 
 ElasticPOST is an open source academic free software
