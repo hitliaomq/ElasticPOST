@@ -1,0 +1,11 @@
+To use this code, you can set the folder containing the whole scripts as current path or install it.
+
+To install the package, there are two different ways. 
+The first method is copying the package to the destination folder you want to install, 
+and then adding the folder to the variable of matlabpath. 
+https://www.mathworks.com/help/matlab/matlab_env/add-folders-to-matlabsearch-path-at-startup.html
+
+The other way is to run the following script(Note:you need to run the MATLAB as administrator)
+EPOST_INSTALL
+or
+EPOST_INSTALL('destination folder')
