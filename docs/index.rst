@@ -11,10 +11,7 @@
 |logo| ElasticPOST: POST code for Elastic constants
 ==============================================================================================
 
-.. figure:: images/ElasticPOST.png
-    :width: 306px
-    :align: center
-    :height: 208px
+.. image:: images/ElasticPOST.png
 
 
 Contents:
