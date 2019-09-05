@@ -193,7 +193,16 @@ a = slice_plane(1);
 b = slice_plane(2);
 c = slice_plane(3);
 
-X = c/sqrt(a^2+c^2)*cos(t) - a*b/sqrt((a^2+c^2)*(a^2+b^2+c^2))*sin(t);
-Y = sqrt((a^2+c^2)/(a^2+b^2+c^2))*sin(t);
-Z = -a/sqrt(a^2+c^2)*cos(t) - b*c/sqrt((a^2+c^2)*(a^2+b^2+c^2))*sin(t);
+if a == 0 && b == 0
+    u = [1, 0, 0];
+else
+    u = [b, -a, 0];
+end
+v = cross(slice_plane, u);
+u = u/norm(u);
+v = v/norm(v);
+
+X = u(1) * cos(t) + v(1) * sin(t);
+Y = u(2) * cos(t) + v(2) * sin(t);
+Z = u(3) * cos(t) + v(3) * sin(t);
 end
