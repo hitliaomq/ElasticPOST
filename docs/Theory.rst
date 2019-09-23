@@ -9,6 +9,7 @@ The different crystal symmetry of 3D materials are illustrated in Fig. 1, and th
 
 .. image:: images/CrystalType_3D.png  
 Fig. 1 Symmetry in 3D crystal
+
 (a)Triclinic; (b)Monoclinic; (c)Orthorhombic; (d)Tetragonal; (e)Cubic; (f)Trigonal; (g)Hexagonal
 
 
@@ -21,6 +22,7 @@ The different crystal symmetry of 2D materials are illustrated in Fig. 3, and th
 
 .. image:: images/CrystalType_2D.png  
 Fig. 3 Symmetry in 2D crystal
+
 (a) Oblique; (b) Rectangular; (c) Square; (d)Hexagonal
 
  
