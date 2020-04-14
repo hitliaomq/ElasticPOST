@@ -16,7 +16,11 @@
 
   **MATLAB required**
 
-  
+  Two ways:
+
+  - add the path containing the `src` into your `MATLAB PATH`
+
+  - Set the `src` folder as the current folder, then run `EPOST_INSTALL` (need run `MATLAB` as administrator)
 
 - From exe file
 
