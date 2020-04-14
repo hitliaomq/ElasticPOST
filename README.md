@@ -2,13 +2,27 @@
 
 # ElasticPOST
 
-<img src="https://github.com/hitliaomq/MaterialPOST/blob/master/ElasticPOST/ScreenShot/ElasticPOST.png" width="306" height="208"></img>
+<img src="https://github.com/hitliaomq/ElasticPOST/blob/master/docs/images/ElasticPOST-splash.png" width="306" height="208"></img>
 
  POST code for second order elastic constant
 
 [Online Help](https://elasticpost.readthedocs.io/) (Under writing)
 
 ([Here](https://github.com/hitliaomq/MaterialPOST/blob/master/ElasticPOST/Video/ElasticPOST-An%20Introduction.mp4) is a brief video tutorial, and [here](https://github.com/hitliaomq/MaterialPOST/blob/master/ElasticPOST/Manual/ElasticPOST%20Manual(Chinese).pdf) is an unfinished manual [in Chinese])
+
+## INSTALLATION
+
+- From source code
+
+  **MATLAB required**
+
+  
+
+- From exe file
+
+  **MATLAB runtime required. (free but about 2.5Gb)**
+
+  Run `ElasticPOST_GUI.exe` in the `bin` folder. Note: `MATLAB Runtime` is required. The code can download and install it for you. (About **2.5Gb**)
 
 ## PLEASE CITE
 
